@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd5358ff-3845-4d1d-ad40-da7c5272bfe3" name="WebClass2022-8 issue10/24-10/28" comment="WebClass2022-8 issue10/24-10/28" />
+    <list default="true" id="fd5358ff-3845-4d1d-ad40-da7c5272bfe3" name="WebClass2022-8 issue10/24-10/28" comment="WebClass2022-8 issue10/24-10/28">
+      <change afterPath="$PROJECT_DIR$/Python_modularity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="660aa336-2b19-4a8a-96d9-e40526816091" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,25 +30,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "tasks.servers",
-    "start.from.branch": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;tasks.servers&quot;,
+    &quot;start.from.branch&quot;: &quot;main&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Markdown"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Markdown&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="WebClass2022" />
@@ -76,7 +79,6 @@
     <task id="WebClass2022-6" summary="issues-10/17-10/21">
       <branch name="main" repository="C:\Users\Min-Jae Ahn\Documents\GitHub\WebClass2022" original="true" />
       <branch name="daycommit17-21" repository="C:\Users\Min-Jae Ahn\Documents\GitHub\WebClass2022" />
-      <changelist id="" name="WebClass2022-6 issues-10/17-10/21" comment="WebClass2022-6 issues-10/17-10/21" />
       <created>1666009337000</created>
       <option name="issue" value="true" />
       <url>https://github.com/abox96/WebClass2022/issues/6</url>
@@ -105,7 +107,8 @@
       <option name="project" value="WebClass2022" />
       <option name="type" value="BUG" />
       <updated>1666609493528</updated>
-      <workItem from="1666609493806" duration="219000" />
+      <workItem from="1666609493806" duration="599000" />
+      <workItem from="1666706771655" duration="106000" />
     </task>
     <servers>
       <GitHub url="https://github.com">
