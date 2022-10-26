@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd5358ff-3845-4d1d-ad40-da7c5272bfe3" name="WebClass2022-8 issue10/24-10/28" comment="WebClass2022-8 issue10/24-10/28">
-      <change afterPath="$PROJECT_DIR$/Python_modularity.md" afterDir="false" />
+    <list default="true" id="fd5358ff-3845-4d1d-ad40-da7c5272bfe3" name="WebClass2022-8 issue10/24-10/28" comment="WebClass2022-8 issue10/24-10/28&#10;파이썬 모듈화에 대한 시험공부">
+      <change afterPath="$PROJECT_DIR$/Unity_Term.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="660aa336-2b19-4a8a-96d9-e40526816091" name="Changes" comment="" />
@@ -106,9 +106,10 @@
       <option name="presentableId" value="WebClass2022-8" />
       <option name="project" value="WebClass2022" />
       <option name="type" value="BUG" />
-      <updated>1666609493528</updated>
+      <updated>1666706907561</updated>
       <workItem from="1666609493806" duration="599000" />
-      <workItem from="1666706771655" duration="106000" />
+      <workItem from="1666706771655" duration="173000" />
+      <workItem from="1666789337756" duration="106000" />
     </task>
     <servers>
       <GitHub url="https://github.com">
@@ -138,6 +139,7 @@
     <MESSAGE value="WebClass2022-6 issues-10/17-10/21&#10;유니티 장면(scene)전환 코드" />
     <MESSAGE value="WebClass2022-6 issues-10/17-10/21&#10;유니티 이벤트시 조건에 맞는 오브젝트 삭제" />
     <MESSAGE value="WebClass2022-6 issues-10/17-10/21&#10;유니티 클론 생성 prefab" />
-    <option name="LAST_COMMIT_MESSAGE" value="WebClass2022-6 issues-10/17-10/21&#10;유니티 클론 생성 prefab" />
+    <MESSAGE value="WebClass2022-8 issue10/24-10/28&#10;파이썬 모듈화에 대한 시험공부" />
+    <option name="LAST_COMMIT_MESSAGE" value="WebClass2022-8 issue10/24-10/28&#10;파이썬 모듈화에 대한 시험공부" />
   </component>
 </project>
