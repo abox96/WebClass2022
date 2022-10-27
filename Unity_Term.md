@@ -40,6 +40,42 @@
 - Console뷰
   메시지, 경고, 오류 등의 로그를 표시해주는 뷰
 
-[입력 함수](https://www.notion.so/ca81fe4485ae414899609a8e46a4ff5e)
+## 스칼라
 
-[용어](https://www.notion.so/6bfd62c61a8e435ebe1f493dead28a61)
+: 크기만 있고 방향이 없음 ( 무게, 온도, …..)
+
+## 벡터
+
+: 크기와 방향이 함께 존재 (속도, 힘, ….)
+
+## Rigidbody(강체) 컴포넌트
+
+: 물체에 물리적인 특성(강체)을 부여, 외력(중력, 마찰력 등)으로 움직이려면 추가해야함
+
+<aside>
+💡 Rigidbody 변수
+- Mass : 물체의 질량
+- Drag : 공기 저항
+- Angular Drag : 회전 운동 저항
+- Use Gravity : 중력 영향 여부
+- Is Kinematic : 물체에 가해지는 힘의 크기, 방향 등을 계산하지 않음,
+즉, 물리엔진 기능을 무효 but 충돌 체크는 여전히 수행함 - Transform을 통해서만 물체 조작 가능
+
+- Interpolate : 물체의 움직임이 지나치게 끊겨 보일 경우 사용
+
+- Collision Detection
+1. Discrete - 현재 프레임의 위치만으로 충돌 검사 *Tunneling문제 생길 수 있음
+2. Continuous - 이전 프레임과 현제 프레임 사이의 이동 궤적을 바탕으로 충돌 검사
+3. Continuous Dynamic - Continuous 충돌 검사에 압도적인 계산량 추가
+
+충돌 검사 시 Rigidbody인 물체 = Discrete충돌 검사, 없는 물체 = Continuous 충돌 검사
+
+</aside>
+
+## GetComponent<componentName>()
+
+<componetName> 현재 스크립트에 연결된 물체에서 찾을 경우에만 허용됨
+
+GetComponet()메서드 사용 시 다른 게임 오브젝트에 속한 스크립트를 참조할 수 있다.
+
+[입력 함수](https://www.notion.so/ca81fe4485ae414899609a8e46a4ff5e)
