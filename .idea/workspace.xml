@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd5358ff-3845-4d1d-ad40-da7c5272bfe3" name="WebClass2022-8 issue10/24-10/28" comment="WebClass2022-8 issue10/24-10/28&#10;파이썬 모듈화에 대한 시험공부">
+      <change afterPath="$PROJECT_DIR$/Unity_Term.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="660aa336-2b19-4a8a-96d9-e40526816091" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GGJiUeuViqsou9Jffltce4Suk5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;tasks.servers&quot;,
+    &quot;start.from.branch&quot;: &quot;main&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Markdown&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="WebClass2022" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="WebClass2022" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="Default" summary="Default task">
+      <branch name="main" repository="C:\Users\Min-Jae Ahn\Documents\GitHub\WebClass2022" />
+      <changelist id="660aa336-2b19-4a8a-96d9-e40526816091" name="Changes" comment="" />
+      <created>1666009119270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666010217372</updated>
+      <workItem from="1666009121363" duration="557000" />
+      <workItem from="1666009712890" duration="501000" />
+    </task>
+    <task id="WebClass2022-6" summary="issues-10/17-10/21">
+      <branch name="main" repository="C:\Users\Min-Jae Ahn\Documents\GitHub\WebClass2022" original="true" />
+      <branch name="daycommit17-21" repository="C:\Users\Min-Jae Ahn\Documents\GitHub\WebClass2022" />
+      <created>1666009337000</created>
+      <option name="issue" value="true" />
+      <url>https://github.com/abox96/WebClass2022/issues/6</url>
+      <option name="number" value="6" />
+      <option name="presentableId" value="WebClass2022-6" />
+      <option name="project" value="WebClass2022" />
+      <option name="type" value="BUG" />
+      <updated>1666609493528</updated>
+      <workItem from="1666010217787" duration="887000" />
+      <workItem from="1666011116219" duration="533000" />
+      <workItem from="1666096710196" duration="2282000" />
+      <workItem from="1666185972664" duration="371000" />
+      <workItem from="1666274987322" duration="324000" />
+      <workItem from="1666357079281" duration="148000" />
+      <workItem from="1666609325609" duration="167000" />
+    </task>
+    <task active="true" id="WebClass2022-8" summary="issue10/24-10/28">
+      <branch name="main" repository="C:\Users\Min-Jae Ahn\Documents\GitHub\WebClass2022" original="true" />
+      <branch name="issue10/24-10/28#8" repository="C:\Users\Min-Jae Ahn\Documents\GitHub\WebClass2022" />
+      <changelist id="fd5358ff-3845-4d1d-ad40-da7c5272bfe3" name="WebClass2022-8 issue10/24-10/28" comment="WebClass2022-8 issue10/24-10/28" />
+      <created>1666609209000</created>
+      <option name="issue" value="true" />
+      <url>https://github.com/abox96/WebClass2022/issues/8</url>
+      <option name="number" value="8" />
+      <option name="presentableId" value="WebClass2022-8" />
+      <option name="project" value="WebClass2022" />
+      <option name="type" value="BUG" />
+      <updated>1666706907561</updated>
+      <workItem from="1666609493806" duration="599000" />
+      <workItem from="1666706771655" duration="173000" />
+      <workItem from="1666789337756" duration="106000" />
+    </task>
+    <servers>
+      <GitHub url="https://github.com">
+        <option name="repoAuthor" value="abox96" />
+        <option name="repoName" value="WebClass2022" />
+        <option name="shouldFormatCommitMessage" value="true" />
+      </GitHub>
+    </servers>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="WebClass2022-6 issues-10/17-10/21&#10;유니티 오브젝트 충돌코드" />
+    <MESSAGE value="WebClass2022-6 issues-10/17-10/21&#10;유니티 ObjectTransfrom에 대한 5가지 요소와 예시 코드" />
+    <MESSAGE value="WebClass2022-6 issues-10/17-10/21&#10;유니티 장면(scene)전환 코드" />
+    <MESSAGE value="WebClass2022-6 issues-10/17-10/21&#10;유니티 이벤트시 조건에 맞는 오브젝트 삭제" />
+    <MESSAGE value="WebClass2022-6 issues-10/17-10/21&#10;유니티 클론 생성 prefab" />
+    <MESSAGE value="WebClass2022-8 issue10/24-10/28&#10;파이썬 모듈화에 대한 시험공부" />
+    <option name="LAST_COMMIT_MESSAGE" value="WebClass2022-8 issue10/24-10/28&#10;파이썬 모듈화에 대한 시험공부" />
+  </component>
+</project>
