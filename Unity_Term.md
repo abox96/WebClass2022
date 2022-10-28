@@ -78,4 +78,52 @@
 
 GetComponet()메서드 사용 시 다른 게임 오브젝트에 속한 스크립트를 참조할 수 있다.
 
-[입력 함수](https://www.notion.so/ca81fe4485ae414899609a8e46a4ff5e)
+
+# 입력 함수
+
+## Input 클래스
+
+• Input.GetAxis(“Horizontal”) : 좌우 이동키의 이동 방향
+• Input.GetAxis(“Vertical”) : 앞뒤 이동키의 이동 방향
+
+• Input.GetKeyDown() : 특정한 키를 눌렀는 지 여부
+• Input.GetButtonDown() : 특정한 키나 버튼을 눌렀는 지 여부
+• Input.GetMouseButtonDown() : 마우스버튼을 눌렀는 지 여부
+
+- Input.GetAxis()
+  ▪ 입력장치(키보드, 마우스, 조이스틱)의 방향키가 눌려진 방
+  향을 -1, 0, 1의 값으로 알려줌
+  • Input.GetAxis(“Horizontal”);
+  ▪ a : -1, d : 1
+  • Input.GetAxis(“Vertical”);
+  ▪ s : -1, w : 1
+
+## 물체 이동 코드
+
+위치 변경 코드
+
+transform.position = new Vector3 (Input.mousepostion.x, 0, 0)
+this.transform.position += new Vector3 (rnd, rnd, rnd)
+
+각도(회전) 변경 코드
+this.transform.rotation = Quaternion.Euler (rnd, 0.0f, 0.0f)
+
+확대/ 축소 비율 변경
+this.transform.localScale = new Vector3 (rnd, rnd, rnd);
+
+## 연속성이 있는 물체 이동
+
+- 이동
+  – <오브젝트>.transform.Translate(이동 거리);
+  • 회전
+  – <오브젝트>.transform.Rotate(X 회전각, Y 회전각, Z 회전각);
+  • 축소/확대
+  – <오브젝트>.transform.localScale = Vector3(sx, sy, sz);
+
+## 플랫폼 성능에 따른 물체 움직임 속도
+
+- 모든 물체는 플랫폼 성능에 따라 FPS(Frame Per Second)가 다를 수 있다. 하지만 플랫폼 성능과 상관없이 항상 일정한 속도로 이동해야한다.
+- Time.deltaTime
+- 직전 프레임과 현재 프레임 사이의 소요시간
+- [매 프레임 이동거리] = 속도 x Time.deltaTime
+- 실시간 update로 이동하는 물체에 Time.deltaTime를 걸어주면 성능에 따른 FPS격차를 줄일 수 있다.
