@@ -16,7 +16,7 @@ public float jump_player = 5;
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButtonDown("Jump"))
+        if (Input.GetButtonDown("Jump")) //스페이스버튼을 유지 시 적용되는 코드 if (Input.GetButton("Jump"))
         {
             GetComponent<Rigidbody>().velocity = new Vector3(0, jump_player, 0);
         }
@@ -65,7 +65,7 @@ public float interval = 1.5f;
     {
         while (true)
         {
-            Instantiate(pf_wall, transform.position, transform.rotation);
+            Instantiate(pf_wall, transform.position, transform.rotation); //오브젝트 스폰 시 x축을 랜덤으로 생성시키는 코드 Instantiate(pf_wall, new Vector3(transform.position.x , Random.Range(3, -4), transform.position.z), transform.rotation);
             yield return new WaitForSeconds(interval);
         }
     }
