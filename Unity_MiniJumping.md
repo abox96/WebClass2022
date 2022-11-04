@@ -48,7 +48,13 @@ public float speed = -5;
     {
         transform.Translate(speed * Time.deltaTime, 0, 0);
     }
+// void Update() 
+{
+
+        transform.Translate(Random.Range(-3, -100) * Time.deltaTime, 0, 0);
+    }
 }
+//Translate의 x파라미터를 랜덤을 지정하여 게임 시작 시 지정된 범위내의 속도중 랜덤으로 게임난이도가 정해지게 된다.
 
 -- 벽(장애물)을 연속적으로 생성시키는 코드
 using System.Collections;
